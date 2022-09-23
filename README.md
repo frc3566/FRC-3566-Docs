@@ -1,1 +1,5 @@
-# FRC-3566-Docs
+# Introduction
+
+FRC team 3566's coding knowledge base.
+
+Framework:
