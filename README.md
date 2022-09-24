@@ -6,7 +6,7 @@ FRC team 3566's coding knowledge base.
 
 Built with Mkdoc. [See their site for maintainance guide：https://www.mkdocs.org/](https://www.mkdocs.org/).
 
-#Index:
+# Index:
 
 ## RoboRIO
 * WPILib
