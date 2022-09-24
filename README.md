@@ -2,7 +2,7 @@
 
 FRC team 3566's coding knowledge base.
 
-[Currectly live on  https://frc-3566-docs.readthedocs.io/](https://frc-3566-docs.readthedocs.io/)
+[Currectly live on  frc-3566-docs.readthedocs.io](https://frc-3566-docs.readthedocs.io/)
 
 Built with Mkdoc. [See their site for maintaining guide：https://www.mkdocs.org/](https://www.mkdocs.org/).
 
