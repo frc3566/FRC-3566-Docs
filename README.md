@@ -44,7 +44,12 @@ Built with Mkdoc. [See their site for maintainance guide：https://www.mkdocs.or
 * Smart Dashboard
 * GUI (optional)
 
-## Other Hardwares
+## Hardware & Wiring
+* Pneumatics
+* Ethernet bridge
+* Radio
+* Motors
+* Camera
 
 ## Scouting
 * The Blue Alliance: https://www.thebluealliance.com/apidocs

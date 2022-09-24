@@ -6,6 +6,6 @@ nav:
     - RoboRIO: roborio/
     - Coprocessor: coprocessor/
     - Driver Station: driver_station/
-    - Other Hardwares: other_hardwares/ 
+    - Hardware & Wiring: hardware&wiring/ 
     - Scouting: scouting/
 theme: readthedocs
