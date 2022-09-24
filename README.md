@@ -6,7 +6,7 @@ FRC team 3566's coding knowledge base.
 
 Built with Mkdoc. [See their site for maintainance guide：https://www.mkdocs.org/](https://www.mkdocs.org/).
 
-Make an account on [Read the Docs](https://readthedocs.org/) to manage the hosted website.
+Make an account on [Read the Docs](https://readthedocs.org/) to manage the hosted website. Normally changes are automatically synced.
 
 # Index
 
