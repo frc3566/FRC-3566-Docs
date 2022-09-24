@@ -1,5 +1,5 @@
 site_name: FRC 3566 Docs
-site_url: https://frc-3566-docs.readthedocs.org/
+site_url: https://frc-3566-docs.readthedocs.io/
 nav:
     - Home: index.md
     - About: about.md
