@@ -2,9 +2,11 @@
 
 FRC team 3566's coding knowledge base.
 
-Built with Mkdoc. [See their site for maintaining guide：https://www.mkdocs.org/](https://www.mkdocs.org/).
+[Currectly live on  frc-3566-docs.readthedocs.io](https://frc-3566-docs.readthedocs.io/)
 
-Framework:
+Built with Mkdoc. [See their site for maintainance guide：https://www.mkdocs.org/](https://www.mkdocs.org/).
+
+# Index
 
 ## RoboRIO
 * WPILib
