@@ -1,6 +1,6 @@
 # Introduction
 
-FRC 3566 Docs or better named *Fishing Doc* is FRC team 3566's coding knowledge base.
+*FRC 3566 Docs* or better named ***Fishing Doc*** is FRC team 3566's coding knowledge base.
 
 [Currectly live on  frc-3566-docs.readthedocs.io](https://frc-3566-docs.readthedocs.io/)
 
