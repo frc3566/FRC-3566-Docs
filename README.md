@@ -2,6 +2,8 @@
 
 FRC team 3566's coding knowledge base.
 
+Built with Mkdoc. See their [site](https://www.mkdocs.org/) for maintaining guide.
+
 Framework:
 
 ## RoboRIO
