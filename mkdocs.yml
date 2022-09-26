@@ -6,6 +6,7 @@ nav:
     - RoboRIO: roborio/
     - Coprocessor: coprocessor/
     - Driver Station: driver_station/
-    - Hardware & Wiring: hardware&wiring/ 
+    - Hardware & Wiring: hardware&wiring/README.md
     - Scouting: scouting/
-theme: readthedocs
+theme:
+  name: swan
